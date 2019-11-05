@@ -1,1 +1,2 @@
-# ass2srt
+# dependencies 
+sudo apt install mkvtoolnix
